@@ -1,5 +1,5 @@
-const scrollSpeed = 300;
-const height = 300;
+const scrollSpeed = 100;
+const height = 100;
 
 function autoScroll() {
     const currentPosition = window.pageYOffset || document.documentElement.scrollTop;
